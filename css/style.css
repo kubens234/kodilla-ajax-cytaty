@@ -1,0 +1,44 @@
+body {
+	background: #55acee;
+	color: white;
+}
+main {
+	width: 800px;
+	margin: 0 auto;	
+}
+header {
+	margin-bottom: 100px;
+}
+button {
+	width: 400px;
+	height: 40px;
+	border: 1px solid white;
+	background: #55acee;
+	color: white;
+}
+.button {
+	width: 400px;
+	height: 40px;
+	border: 1px solid white;
+	background: #55acee;
+	color: white;
+	margin: 20px auto;
+}
+a {
+	display: block;
+	margin: 10px auto;
+	text-align:center;
+	vertical-align: middle;
+	text-decoration: none;
+	
+}
+h1, 
+h2,
+h3 {
+	text-align: center;
+	margin: 40px auto;
+}
+a,
+i {
+	color: white;
+}
